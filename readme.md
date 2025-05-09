@@ -1,4 +1,5 @@
-# Automation Script for Getting Discord Server with a Tag
+# (AS OF 8TH KF MAY THE SCRIPT NO LONGER WORKS)
+##Automation Script for Getting Discord Server with a Tag
 
 Since around May 6th, 2025, newly created Discord servers have a small, random chance (approximately 1 in 500) of including the experimental tag feature; this script automates the repetitive process of creating and deleting servers to help find one.
 
